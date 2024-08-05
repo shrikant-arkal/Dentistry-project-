@@ -6,10 +6,7 @@ Data Collection and Preprocessing The initial phase of the project involves the 
 
 Data preprocessing is a critical step to ensure the quality and reliability of the dataset. This process includes:
 
- Data Preprocessing: Identify and handle missing values, Encoding categorical data,Split independent and dependent variables, Normalize the X variable ,    
- Exploratory Data Analysis  ,
- Model Building   ,
- Evaluation
+ Data Preprocessing: Identify and handle missing values, Encoding categorical data,Split independent and dependent variables, Normalize the X variable ,    Exploratory Data Analysis  , Model Building   , Evaluation
 
 
 
